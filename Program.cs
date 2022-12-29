@@ -16,6 +16,9 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+//a1 comment
+//another a1 comment
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
