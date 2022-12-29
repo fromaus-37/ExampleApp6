@@ -22,6 +22,7 @@ if (!app.Environment.IsDevelopment())
 
 //a2 comment
 //another a2 comment'
+//an a22 comment
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
