@@ -28,7 +28,9 @@ if (!app.Environment.IsDevelopment())
 //an a3.3 comment
 
 
-//a4 comment
+// a4 comment
+// another a4 comment
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
